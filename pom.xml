@@ -20,7 +20,7 @@
         </developer>
     </developers>
 
-    <groupId>com.ninggc.individual</groupId>
+    <groupId>cn.ninggc</groupId>
     <artifactId>personal</artifactId>
     <version>1.0</version>
 
